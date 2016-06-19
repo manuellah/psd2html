@@ -1,0 +1,97 @@
+.whole {
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: white;
+}
+body {
+    background-color: #303030;
+    margin: 0%;
+}
+.gnome {
+    background-color: gray;
+    height: 100px;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+#gn {
+    color: yellow;
+    font-size: 4em;
+    padding-bottom: 0px;
+    padding-right: 40%;
+    margin-top: 10px;
+}
+.inline {
+  display: inline;
+}
+.blog {
+    padding-top: 10px;
+    padding-left: 50px; 
+    padding-right: 50px;
+    font-family: fantasy;
+    clear: both;
+}
+.blogbtn {
+    font-size: 24px;
+    border-radius: 35%;
+    background-color: black;
+    color: white;
+    width: 20%;
+    padding: 15px;
+}
+.blogpara {
+    color:darkgray;
+}
+.logo {
+    display: inline;
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+.containerlogo {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.containerM {
+    clear: both;
+   
+   border-top:  1px solid #648880;
+     border-bottom:  10px solid #648880;
+     border-width:  10px;
+     border-color:   #f9fbe7;
+    padding-right: 2px 0;
+}
+.container1 {
+    width: 50%;
+    display: inline;
+    float: left;
+}
+.container2 {
+    width: 50%;
+    display: inline;
+    float: left;
+}
+.grn {
+    text-align: center;
+    clear: both;
+    width: ;100%
+    padding-top: 200px;
+    padding-bottom: 50px;
+    background-color: chartreuse;
+}
+.footer {
+    background-color:#686868;
+    color: yellow;
+    text-align: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.line {
+    border-top:  1px solid #648880;
+     border-bottom:  10px solid #648880;
+     border-width:  10px;
+     border-color:   #f9fbe7;
+    padding-right: 2px 0;
+    
+}
